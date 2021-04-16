@@ -1,0 +1,16 @@
+[submodule "idscocr"]
+	path = idscocr
+	url = git@git.vauxoo.com:vauxoo/idscocr.git
+	branch = 14.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 14.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 14.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 14.0
