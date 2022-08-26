@@ -22,3 +22,7 @@
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
 	branch = 14.0
+[submodule "stock-psycho-account"]
+	path = stock-psycho-account
+	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
+	branch = 14.0
